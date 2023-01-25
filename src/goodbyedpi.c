@@ -1,5 +1,5 @@
 /*
- * GoodbyeDPI — Passive DPI blocker and Active DPI circumvention utility.
+ * GoodbyeDPI — Passive DPI blocker and Active DPI circumvention utilitya.
  */
 
 #include <stdio.h>
